@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/* Builder/AlertDialog/AlertDialog.iml" filepath="$PROJECT_DIR$/* Builder/AlertDialog/AlertDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/* Callback/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/* Callback/Calculadora/Calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/* Builder/Computer/Computer.iml" filepath="$PROJECT_DIR$/* Builder/Computer/Computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/* Callback/FileDownloader/FileDownloader.iml" filepath="$PROJECT_DIR$/* Callback/FileDownloader/FileDownloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patrones.iml" filepath="$PROJECT_DIR$/Patrones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/* Callback/SimularHipoteca/SimularHipoteca.iml" filepath="$PROJECT_DIR$/* Callback/SimularHipoteca/SimularHipoteca.iml" />
       <module fileurl="file://$PROJECT_DIR$/* Builder/TextBox/TextBox.iml" filepath="$PROJECT_DIR$/* Builder/TextBox/TextBox.iml" />
     </modules>
   </component>
