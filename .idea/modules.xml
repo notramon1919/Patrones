@@ -7,10 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/* Builder/Computer/Computer.iml" filepath="$PROJECT_DIR$/* Builder/Computer/Computer.iml" />
       <module fileurl="file://$PROJECT_DIR$/* Callback/FileDownloader/FileDownloader.iml" filepath="$PROJECT_DIR$/* Callback/FileDownloader/FileDownloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/* Factory/GameCharacter/GameCharacter.iml" filepath="$PROJECT_DIR$/* Factory/GameCharacter/GameCharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/* Observer/Guess Event/Guess Event.iml" filepath="$PROJECT_DIR$/* Observer/Guess Event/Guess Event.iml" />
       <module fileurl="file://$PROJECT_DIR$/* Factory/Notification System/Notification System.iml" filepath="$PROJECT_DIR$/* Factory/Notification System/Notification System.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patrones.iml" filepath="$PROJECT_DIR$/Patrones.iml" />
       <module fileurl="file://$PROJECT_DIR$/* Factory/ProductFactory/ProductFactory.iml" filepath="$PROJECT_DIR$/* Factory/ProductFactory/ProductFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/* Callback/SimularHipoteca/SimularHipoteca.iml" filepath="$PROJECT_DIR$/* Callback/SimularHipoteca/SimularHipoteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/* Observer/Termostato/Termostato.iml" filepath="$PROJECT_DIR$/* Observer/Termostato/Termostato.iml" />
       <module fileurl="file://$PROJECT_DIR$/* Builder/TextBox/TextBox.iml" filepath="$PROJECT_DIR$/* Builder/TextBox/TextBox.iml" />
     </modules>
   </component>
